@@ -1,0 +1,21 @@
+# Ignore build artifacts
+/build/
+build/
+*.o
+*.obj
+*.exe
+*.dll
+*.lib
+*.so
+*.dylib
+*.a
+*.pch
+*.pdb
+
+# Ignore CMake generated files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.ninja
+build.ninja
