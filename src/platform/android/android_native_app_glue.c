@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#include "android_native_app_glue.h"
+#include "../../../../../../../Downloads/android-ndk-r27c-windows/android-ndk-r27c/sources/android/native_app_glue/android_native_app_glue.h"
 
 #include <jni.h>
 
